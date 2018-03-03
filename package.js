@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Simple chat window. The star point to make your own chat. Forked from cesarve:simple-chat.",
-    version: "0.4.5",
+    version: "0.4.6",
     name: "openp2pdesign:simple-chat",
     git: "https://github.com/openp2pdesign/simple-chat/tree/mypackage"
 });

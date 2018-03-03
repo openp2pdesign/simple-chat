@@ -1,4 +1,4 @@
-# Simple Chat window: the starter point to build your own chat, in seconds
+# Simple Chat window: the starter point to build your own chat, in seconds. Forked from cesarve:simple-chat.
 
 ## Features
 
@@ -19,7 +19,7 @@
 
 ## Installing
 
-    $ meteor add cesarve:simple-chat 
+    $ meteor add openp2pdesign:simple-chat 
 
 ## Usage
 

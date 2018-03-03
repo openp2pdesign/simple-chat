@@ -868,11 +868,11 @@
     font-family: 'chat';
     font-weight: normal;
     font-style: normal;
-    src: url('/packages/cesarve_simple-chat/assets/fonts/chat.eot');
-    src: url('/packages/cesarve_simple-chat/assets/fonts/chat.eot?#iefix') format('embedded-opentype'),
-    url('/packages/cesarve_simple-chat/assets/fonts/chat.woff') format('woff'),
-    url('/packages/cesarve_simple-chat/assets/fonts/chat.ttf') format('truetype'),
-    url('/packages/cesarve_simple-chat/assets/fonts/chat.svg#chat') format('svg');
+    src: url('/packages/openp2pdesign_simple-chat/assets/fonts/chat.eot');
+    src: url('/packages/openp2pdesign_simple-chat/assets/fonts/chat.eot?#iefix') format('embedded-opentype'),
+    url('/packages/openp2pdesign_simple-chat/assets/fonts/chat.woff') format('woff'),
+    url('/packages/openp2pdesign_simple-chat/assets/fonts/chat.ttf') format('truetype'),
+    url('/packages/openp2pdesign_simple-chat/assets/fonts/chat.svg#chat') format('svg');
 }
 .simple-chat [data-icon]:before
 {

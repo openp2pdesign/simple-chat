@@ -114,11 +114,11 @@ Template.SimpleChatWindow.onRendered(function () {
 
             SimpleChat.scrollToEnd(this)
             if (this.beep && window.visivility == 'hidden') {
-                new Audio('/packages/cesarve_simple-chat/assets/bell.mp3').play()
+                new Audio('/packages/openp2pdesign_simple-chat/assets/bell.mp3').play()
             }
         } else {
             if (this.beep && username != doc.username) {
-                new Audio('/packages/cesarve_simple-chat/assets/bell.mp3').play()
+                new Audio('/packages/openp2pdesign_simple-chat/assets/bell.mp3').play()
             }
         }
     })
@@ -234,6 +234,3 @@ Template.SimpleChatWindow.events({
 
     }
 });
-
-
-

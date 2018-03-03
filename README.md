@@ -123,16 +123,9 @@ To [Jetbrains.com](Jetbrains.com) for give us a free licences of their amazing s
 
 # Contributing 
 
-1) Please help me with my english
+1. Please check first [the original repo cesarve:simple-chat](https://github.com/cesarve77/simple-chat), open issues here only for my modifications
+2. Pull request are very welcome: the *master* branch is in sync with c*esarve:simple-chat*, the *mypackage* branch is where my modifications are
+3. Fork the repo
+4. Create a branch named after the issue you want to contribute to (for example: *issue22*), make changes, commit and push to the branch
+5. Make a pull request
 
-2) Pull request are very welcome
-
-3) fork the repo
-
-5) make changes
-
-6) commit
-
-7) make a pull request
-
-#

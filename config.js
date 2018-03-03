@@ -12,6 +12,7 @@ export const SimpleChat = {
             room: 'room at'
 
         },
+        template: 'SimpleChatInput'
         limit: 50,
         beep: false,
         showViewed: false,

@@ -7,8 +7,8 @@ export const SimpleChat = {
             loadMore: 'Load More',
             placeholder: 'Type message ...',
             button: 'send',
-            join: 'Join to',
-            left: 'Left the',
+            join: 'joined the',
+            left: 'left',
             room: 'room at'
 
         },
@@ -36,6 +36,9 @@ export const SimpleChat = {
         onLeft: function (roomId, username, name,date) {
             //server
         },
+        height: '300px',
+        inputTemplate: 'SimpleChatInput',
+        loadMoreTemplate: 'LoadMore',
     },
     configure: function (options) {
         this.options = this.options || {};

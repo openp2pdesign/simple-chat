@@ -1,8 +1,8 @@
 Package.describe({
-    summary: "Simple chat window. The star point to make your own chat",
-    version: "0.4.3",
-    name: "cesarve:simple-chat",
-    git: "https://github.com/cesarve77/simple-chat"
+    summary: "Simple chat window. The star point to make your own chat. Forked from cesarve:simple-chat",
+    version: "0.4.8",
+    name: "openp2pdesign:simple-chat",
+    git: "https://github.com/openp2pdesign/simple-chat/tree/mypackage"
 });
 Package.onUse(function (api) {
     api.versionsFrom('1.4');
